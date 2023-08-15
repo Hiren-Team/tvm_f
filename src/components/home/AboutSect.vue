@@ -41,7 +41,7 @@ const renderAboutData = computed(() => {
           Community Building and Transformation
         </h1>
         <p class="lg:w-2/3 lg:mx-auto leading-relaxed text-base">
-          Through community events, workshops, and cultural celebrations, the organization fosters a sense of belonging and togetherness. By facilitating interactions among diverse groups, CommunityCare Alliance nurtures an environment where people can learn from one another and celebrate their differences.
+          Through identifying problems in the communities, the organization fosters a sense of belonging and togetherness. By facilitating interactions among diverse groups,TevaMuto Foundation nurtures an environment where people can be able to get their problems solved for a better life
         </p>
       </div>
 

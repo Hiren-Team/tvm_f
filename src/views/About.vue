@@ -29,8 +29,8 @@ const months = ['Jan', "Feb", 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
         <div class="container px-5 pb-24 pt-6 mx-auto">
             <div class="flex flex-col text-left lg:text-center w-full mb-10">
             <h2 class="text-xs text-indigo-500 tracking-widest font-medium title-font mb-1 uppercase">about us</h2>
-            <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Master Cleanse Reliac Heirloom</h1>
-            <p class="lg:w-2/3 lg:mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom prism food truck ugh squid celiac humblebrag.</p>
+            <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Discover More about us</h1>
+            <p class="lg:w-2/3 lg:mx-auto leading-relaxed text-base">With a heart full of dedication, we assure you that positive change is not just a promise, but our mission.</p>
             </div>
 
             <div v-if="isLoadingData" class="flex flex-wrap">
@@ -98,22 +98,21 @@ const months = ['Jan', "Feb", 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
               <h2
                 class="text-xl font-bold tracki text-center sm:text-5xl dark:text-gray-50"
               >
-                A brief history of the foundation
+                A brief history Of  the Foundation
               </h2>
               <p
                 class="max-w-3xl mx-auto mt-4 text-xl text-center dark:text-gray-400"
               >
-                Quando cetero his ne, eum admodum sapientem ut.
+              Our actions are resolute, and our community's growth is our assurance.
               </p>
             </div>
             <div class="grid lg:gap-8 lg:grid-cols-2 lg:items-center">
               <div>
                 <h3 class="text-2xl font-bold tracki sm:text-3xl dark:text-gray-50">
-                  Ad vix debet docendi
+                  Welcome to Tevamuto Foundation
                 </h3>
                 <p class="mt-3 text-lg dark:text-gray-400">
-                  Ne dicta praesent ocurreret has, diam theophrastus at pro. Eos etiam
-                  regione ut, persius eripuit quo id. Sit te euismod tacimates.
+                  We're on a mission to transform our community into a thriving hub of positivity, progress, and collective growth. With unwavering dedication and a heart for change, we're igniting the spark that lights up lives and paves the way for a brighter tomorrow.
                 </p>
                 <div class="mt-12 space-y-12">
                   <div class="flex">
@@ -139,12 +138,10 @@ const months = ['Jan', "Feb", 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
                     </div>
                     <div class="ml-4">
                       <h4 class="text-lg font-medium leadi dark:text-gray-50">
-                        Per ei quaeque sensibus
+                       Our Vision
                       </h4>
                       <p class="mt-2 dark:text-gray-400">
-                        Ex usu illum iudico molestie. Pro ne agam facete
-                        mediocritatem, ridens labore facete mea ei. Pro id apeirian
-                        dignissim.
+                        To build a community where every member's potential is recognized and nurtured. By fostering an environment of support, inclusivity, and empowerment.
                       </p>
                     </div>
                   </div>
@@ -171,12 +168,10 @@ const months = ['Jan', "Feb", 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
                     </div>
                     <div class="ml-4">
                       <h4 class="text-lg font-medium leadi dark:text-gray-50">
-                        Cu imperdiet posidonium sed
+                        Our Mission
                       </h4>
                       <p class="mt-2 dark:text-gray-400">
-                        Amet utinam aliquando ut mea, malis admodum ocurreret nec et,
-                        elit tibique cu nec. Nec ex maluisset inciderint, ex quis.
-                      </p>
+                        Collectively, we envision a community where education,women empowerment, sports, and agriculture come together to create a tapestry of growth and progres through collaboration, compassion, and action.</p>
                     </div>
                   </div>
                   <div class="flex">
@@ -202,12 +197,10 @@ const months = ['Jan', "Feb", 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
                     </div>
                     <div class="ml-4">
                       <h4 class="text-lg font-medium leadi dark:text-gray-50">
-                        Nulla omittam sadipscing mel ne
+                        What we Do
                       </h4>
                       <p class="mt-2 dark:text-gray-400">
-                        At sed possim oporteat probatus, justo graece ne nec, minim
-                        commodo legimus ut vix. Ut eos iudico quando soleat, nam
-                        modus.
+                        Our hands-on approach ensures that our impact is felt on the ground, enriching lives in ways that resonate far beyond our immediate reach.
                       </p>
                     </div>
                   </div>
@@ -225,12 +218,10 @@ const months = ['Jan', "Feb", 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
               <div class="grid lg:gap-8 lg:grid-cols-2 lg:items-center">
                 <div class="lg:col-start-2">
                   <h3 class="text-2xl font-bold tracki sm:text-3xl dark:text-gray-50">
-                    Eam nibh gloriatur ex
+                    Brief Background of the Foundation
                   </h3>
                   <p class="mt-3 text-lg dark:text-gray-400">
-                    Per odio fabellas consulatu cu. Utroque detracto mel ea, quo te
-                    latine theophrastus. Ea his tale nibh dissentias, mei exerci
-                    tamquam euripidis cu.
+                    (................................................................)
                   </p>
                   <div class="mt-12 space-y-12">
                     <div class="flex">
@@ -256,12 +247,10 @@ const months = ['Jan', "Feb", 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
                       </div>
                       <div class="ml-4">
                         <h4 class="text-lg font-medium leadi dark:text-gray-50">
-                          Cibo augue offendit has ad
+                          Community Building
                         </h4>
                         <p class="mt-2 dark:text-gray-400">
-                          An per velit appellantur, ut utinam minimum nominavi sit,
-                          odio nostro habemus ne nec. Ne sonet regione contentiones
-                          est.
+                          Together, we're more than just a sum of our parts. Our sense of community strengthens bonds and creates lasting connections.
                         </p>
                       </div>
                     </div>
@@ -288,11 +277,10 @@ const months = ['Jan', "Feb", 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
                       </div>
                       <div class="ml-4">
                         <h4 class="text-lg font-medium leadi dark:text-gray-50">
-                          At eum ferri luptatum lobortis
+                          Collaboration:
                         </h4>
                         <p class="mt-2 dark:text-gray-400">
-                          Te per quidam maiorum ocurreret, etiam delicatissimi usu ad.
-                          Ne has quod periculis. Te sit primis iisque efficiantur.
+                          We work hand in hand with local partners, businesses, and volunteers, creating a network of support that propels our community forward.
                         </p>
                       </div>
                     </div>
@@ -319,11 +307,10 @@ const months = ['Jan', "Feb", 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
                       </div>
                       <div class="ml-4">
                         <h4 class="text-lg font-medium leadi dark:text-gray-50">
-                          Dicunt verterem evertitur eu sea
+                          Sustainability
                         </h4>
                         <p class="mt-2 dark:text-gray-400">
-                          Audire principes rationibus eam an, autem nominavi luptatum
-                          per te. Sumo fabulas vim eu, sonet saperet eleifend ut vix.
+                          Whether it's through green initiatives or educational programs, we're committed to sustainable practices that pave the way for a better future.
                         </p>
                       </div>
                     </div>

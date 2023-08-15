@@ -32,7 +32,7 @@
               <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Explore our projects</h1>
               <div class="h-1 w-20 bg-indigo-500 rounded"></div>
             </div>
-            <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom prism food truck ugh squid celiac humblebrag.</p>
+            <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Get Involved Today. Explore our projects, attend our events, and find out how you can contribute to the tapestry of change. Join us in shaping a brighter, more united future for all. Let's make a difference, one step at a time.</p>
           </div>
 
           <div v-if="isLoading" class="flex flex-wrap -m-4">

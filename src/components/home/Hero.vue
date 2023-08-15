@@ -51,7 +51,7 @@
                                 points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
                         </svg>
                     </div>
-                    <p class="font-bold tracking-wide text-gray-800">Empowering Through Education</p>
+                    <p class="font-bold tracking-wide text-gray-800">Make it better</p>
                 </div>
                 <div class="inline-block p-8 text-center">
                     <div class="flex items-center justify-center w-12 h-12 mx-auto mb-4 rounded-full bg-indigo-50">
@@ -60,7 +60,7 @@
                                 points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
                         </svg>
                     </div>
-                    <p class="font-bold tracking-wide text-gray-800">Nurturing Sustainable Communities</p>
+                    <p class="font-bold tracking-wide text-gray-800">Do it faster</p>
                 </div>
                 <div class="inline-block p-8 text-center">
                     <div class="flex items-center justify-center w-12 h-12 mx-auto mb-4 rounded-full bg-indigo-50">
@@ -69,7 +69,7 @@
                                 points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
                     </svg>
                 </div>
-                <p class="font-bold tracking-wide text-gray-800">Fostering Unity</p>
+                <p class="font-bold tracking-wide text-gray-800">Working harder</p>
             </div>
         </div>
         </div>

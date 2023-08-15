@@ -3,14 +3,12 @@
         <div class="mx-auto max-w-screen-xl px-6 md:px-16 lg:px-20 py-16 sm:px-6">
           <div class="flex flex-col text-left lg:text-center w-full mb-16">
               <h2 class="text-xs text-indigo-500 tracking-widest font-medium title-font mb-1 uppercase">REACH OUT</h2>
-              <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Master Cleanse Reliac Heirloom</h1>
+              <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Feel free to reach out to us</h1>
               </div>
           <div class="grid grid-cols-1 gap-x-16 gap-y-8 lg:grid-cols-5">
             <div class="lg:col-span-2 lg:py-12">
               <p class="max-w-xl text-lg">
-                At the same time, the fact that we are wholly owned and totally
-                independent from manufacturer and other group control gives you
-                confidence that we will only recommend what is right for you.
+                We assure you that our dedication to community betterment is a promise that echoes through our actions. Rest assured, every effort we make is aimed at building a brighter future for our community
               </p>
 
               <div class="mt-8">
@@ -27,7 +25,7 @@
                 </a>
 
                 <address class="mt-2 not-italic">
-                  282 Kevin Brook, Imogeneborough, CA 58517
+                 Kayenje, Butambala, Uganda
                 </address>
               </div>
             </div>

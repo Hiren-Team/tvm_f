@@ -41,7 +41,7 @@ const scrollToTop = () => window.scrollTo({
             <button class="mx-auto lg:mt-2 xl:mt-0 flex-shrink-0 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded">Button</button>
           </div>
           <p class="text-gray-500 text-sm mt-2 md:text-left text-center">Get regular updates from us
-            <br class="lg:block hidden">Don't miss out on our services
+            <br class="lg:block hidden">Don't miss out on our updates
           </p>
         </div>
         
@@ -57,7 +57,7 @@ const scrollToTop = () => window.scrollTo({
                 <a class="text-gray-600 hover:text-gray-800">Blog</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">The CEO</a>
+                <a class="text-gray-600 hover:text-gray-800">The C.E.O</a>
               </li>
               <li>
                 <a class="text-gray-600 hover:text-gray-800">Articles</a>
@@ -69,16 +69,16 @@ const scrollToTop = () => window.scrollTo({
             <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CONTACTS</h2>
             <nav class="list-none mb-10">
               <li>
-                <a class="text-gray-600 hover:text-gray-800">+256708997997</a>
+                <a class="text-gray-600 hover:text-gray-800">+256704634285</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">tevamuto@gmail.com</a>
+                <a class="text-gray-600 hover:text-gray-800">wabalanda@gmail.com</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">IG: @tvmfoundation</a>
+                <a class="text-gray-600 hover:text-gray-800">IG: @tvmfoundation-ug</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">Twitter: @tvmF</a>
+                <a class="text-gray-600 hover:text-gray-800">Twitter:@tvmfoundation-ug</a>
               </li>
             </nav>
           </div>
